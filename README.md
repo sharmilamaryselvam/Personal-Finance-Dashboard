@@ -31,6 +31,15 @@ An Excel dashboard that tracks personal income, expenses, and budget performance
 
 Microsoft Excel — PivotTables, GETPIVOTDATA, SUMIFS, Excel Tables, Slicers, PivotCharts.
 
-## Data note
+## Project Takeaway
 
-The dataset is synthetically generated for demonstration purposes. Amounts, categories, and dates are realistic, but fields like `Merchant` and `Description` are randomized and don't always logically match the transaction category (e.g. a "Salary" entry may show an unrelated merchant name). This doesn't affect the totals or KPI logic — it's just a limitation of the mock data, not the dashboard itself.
+This project demonstrates how raw transaction-level data can be transformed into an interactive financial dashboard that supports performance monitoring, budget tracking, spending analysis, and financial decision-making.
+
+The main focus was not simply on creating charts, but on selecting meaningful KPIs and analytical views that answer practical business questions.
+
+---
+## 👩‍💻 Author
+
+Sharmila Mary
+
+Aspiring Data Analyst | SQL | Python | Excel | Power BI
