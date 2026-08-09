@@ -19,6 +19,8 @@ An Excel dashboard that tracks personal income, expenses, and budget performance
 | `KPI` | PivotTables and formulas that power every number and chart on the dashboard |
 | `Dashboard` | The visual summary — KPI cards, charts, and slicers |
 
+![Dashboard](images/01_Dashboard.png)
+
 ## How to use it
 
 1. Open the `Dashboard` sheet — that's the main view.
